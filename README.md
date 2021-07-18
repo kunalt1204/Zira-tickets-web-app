@@ -1,3 +1,4 @@
+![Screenshot (25)](https://user-images.githubusercontent.com/58362038/126070947-d0881784-6761-42ee-889f-e40eaea93634.png)
 Zira Tickets App helps to manage your priorities in work .
 Add to-do work or raise issues using different colors based on their priority.
 Can be used day to day with local storage. 
